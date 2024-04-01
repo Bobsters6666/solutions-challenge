@@ -1,4 +1,4 @@
-# project_1
+# Waste Classifier App 
 
 A new Flutter project.
 
